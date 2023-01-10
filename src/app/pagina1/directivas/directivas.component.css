@@ -1,0 +1,18 @@
+form.p-5.w-25 {
+    margin: auto;
+    width: 50%; 
+  }
+  h2{
+    text-align: center;
+    margin-top: 5rem;
+  }
+
+  form {
+    border: 2px solid rgb(247, 181, 181);
+    border-radius: 5px;
+    background-color: rgb(206, 248, 248);
+  }
+
+  label{
+    margin-bottom: 5px;
+  }
